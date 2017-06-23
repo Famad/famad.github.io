@@ -1,2 +1,4 @@
-/* CSS Document */
+---
+---
 
+@import "{{ site.theme }}";
